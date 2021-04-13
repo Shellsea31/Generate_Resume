@@ -1,20 +1,22 @@
-.main-wrapper {
-  background: #fff;
-  padding: 60px;
-  padding-right: 300px;
+.page-container {
+  background-color: #f4f2f3;
+}
+
+.title-container {
+  background-color: #489fb5;
+}
+
+.contact-container {
+  background-color: #489fb5;
+}
+
+.skill-container {
+  background-color: #e6c229;
 }
 
 .profile-container {
   padding: 30px;
-  background: rgba(0, 0, 0, 0.2);
+  background: #16697a;
   text-align: center;
   color: #fff;
-}
-
-.side-wrapper {
-  position: absolute;
-  right: 0;
-  width: 240px;
-  height: 100%;
-  min-height: 800px;
 }
