@@ -14,6 +14,20 @@
   top: 0;
 }
 
+.overview-container {
+  position: absolute;
+  left: 10px;
+  width: 600px;
+  height: 11in;
+  top: 50px;
+}
+
+.skills-bar {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
 .title-container {
   background-color: #489fb5;
 }
