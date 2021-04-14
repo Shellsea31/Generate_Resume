@@ -1,6 +1,17 @@
 .page-container {
   background-color: #f4f2f3;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
+  width: 8.5in;
+  height: 11in;
+  position: relative;
+}
+
+.right-page-container {
+  position: absolute;
+  right: 0;
+  width: 200px;
+  height: 11in;
+  top: 0;
 }
 
 .title-container {
